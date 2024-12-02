@@ -1,4 +1,4 @@
-# Crime Prediction with Random Forest:Improving Law Enforcement with Data
+# Crime Prediction with Random Forest: Improving Law Enforcement with Data
 
 ## Description
 
